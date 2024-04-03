@@ -1,0 +1,7 @@
+{
+  "name": "realTimeAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
